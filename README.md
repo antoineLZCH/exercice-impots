@@ -5,7 +5,7 @@
 ## Avancée
 
 1. Exercice 1 : Done
-2. Exercice 2 : In progress. 
+2. Exercice 2 : Done 
 3. Exercice 3 : In progress. 
 4. Exercice 4 : In progress.
 5. Boss final : 🙈
