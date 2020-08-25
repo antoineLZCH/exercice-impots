@@ -9,3 +9,9 @@
 3. Exercice 3 : In progress. 
 4. Exercice 4 : In progress.
 5. Boss final : 🙈
+
+## To do
+
+1. Refactor Exercice 1
+2. Do other exercices
+3. Create nuxt interface with PWA
