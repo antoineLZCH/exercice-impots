@@ -6,8 +6,7 @@
 
 1. Exercice 1 : Done
 2. Exercice 2 : Done 
-3. Exercice 3 : In progress. 
-4. Exercice 4 : In progress.
+3. Exercice 3 : Done 
 5. Boss final : 🙈
 
 ## To do
